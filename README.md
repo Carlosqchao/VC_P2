@@ -1,3 +1,8 @@
+## Autores
+
+- Juan Boissier García
+- Carlos Ruano Ramos
+
 ## TAREA 1: Análisis de Bordes con Canny y Conteo de Píxeles Blancos
 
 Descripción:  
