@@ -26,10 +26,10 @@ Descripción:
 Se implementó un programa que captura video en tiempo real desde la cámara y permite alternar entre diferentes modos de visualización mediante el teclado. Los modos incluyen la imagen original, escala de grises y detección de bordes con Canny. El cambio de modo se realiza presionando las teclas 0, 1, 2 o 3, y se finaliza con la tecla Esc.
 
 Objetivos de aprendizaje:
--Uso de captura de video en tiempo real con OpenCV.
--Aplicación de conversiones de color y filtros de procesamiento.
--Implementación de interacción con teclado para control dinámico.
--Visualización en tiempo real de imágenes procesadas. 
+- Uso de captura de video en tiempo real con OpenCV.
+- Aplicación de conversiones de color y filtros de procesamiento.
+- Implementación de interacción con teclado para control dinámico.
+- Visualización en tiempo real de imágenes procesadas. 
 
 ## TAREA 4: Detección de Rostros y Superposición de Imágenes con OpenCV
 
@@ -37,7 +37,7 @@ Descripción:
 Se desarrolló un programa que captura video en tiempo real y detecta rostros mediante el clasificador Haar Cascade. Sobre cada rostro detectado se superpone una imagen seleccionada entre tres opciones diferentes. El cambio de imagen se controla con las teclas 1, 2 y 3, y el programa finaliza con Esc.
 
 Objetivos de aprendizaje:
--Uso del detector de rostros Haar Cascade en tiempo real.
--Implementación de superposición de imágenes sobre regiones detectadas.
--Manipulación de tamaños y posiciones de imágenes con OpenCV.
--Control dinámico de modos mediante interacción con teclado.
+- Uso del detector de rostros Haar Cascade en tiempo real.
+- Implementación de superposición de imágenes sobre regiones detectadas.
+- Manipulación de tamaños y posiciones de imágenes con OpenCV.
+- Control dinámico de modos mediante interacción con teclado.
